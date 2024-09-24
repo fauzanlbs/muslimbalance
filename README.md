@@ -1,8 +1,8 @@
-# Muslim Balance
+# MuslimBalance
 
 A retro-styled Next.js application to track daily productivity in key aspects of Islamic life: Quran, Arabic, Dunya (worldly affairs), and Sport/Exercise.
 
-![Muslim Balance Screenshot](https://via.placeholder.com/800x400.png?text=Muslim+Balance+Screenshot)
+![Muslim Balance Screenshot](https://via.placeholder.com/800x400.png?text=Muslim+Balance)
 
 ## Features
 
@@ -57,13 +57,13 @@ A retro-styled Next.js application to track daily productivity in key aspects of
 ## Usage
 
 - Use the '+' and '-' buttons to increment or decrement your progress for each aspect.
-- Set your daily goals by modifying the `goals` state in the `IslamicProductivityApp` component.
+- Set your daily goals by modifying the `goals` state in the `MuslimBalance` component.
 - Your streak for each aspect will automatically update when you complete the daily goal.
 - Receive a celebratory message when you complete all your daily goals.
 
 ## Customization
 
-- Modify the `aspects` and `colors` arrays in the `IslamicProductivityApp` component to change the tracked categories or color scheme.
+- Modify the `aspects` and `colors` arrays in the `MuslimBalance` component to change the tracked categories or color scheme.
 - Adjust the styling in the Tailwind classes to fit your preferred aesthetic.
 - Update the font in the `<style>` tag or in your global CSS file to change the overall look.
 
